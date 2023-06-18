@@ -1,6 +1,22 @@
 {
-    "Test": "Data",
-    "Testasdfasd1": "Datasdfasdf1",
-    "Editing Data": "Ediasdfting",
-    "Insertion": "I am inserting data"
+    "applicationpreferences": [
+        {
+            "application": "ABABABA",
+            "key": "URL",
+            "value": "",
+            "description": "URL to scrape",
+            "required": false,
+            "addmore": true,
+            "validationrule": "text"
+        },
+        {
+            "application": "Application2",
+            "key": "URL",
+            "value": "",
+            "description": "description",
+            "required": false,
+            "addmore": true,
+            "validationrule": "text"
+        }
+    ]
 }
