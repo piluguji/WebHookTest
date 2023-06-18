@@ -3,7 +3,7 @@
         {
             "application": "ABABABA",
             "key": "URL",
-            "value": "",
+            "value": "THIS VALUE WAS CHANGED",
             "description": "URL to scrape",
             "required": false,
             "addmore": true,
