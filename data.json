@@ -10,13 +10,22 @@
             "validationrule": "text"
         }, 
         {
-            "name": "NEW APP",
-            "key": "NEW",
-            "value": "NEW",
-            "description": "ASF",
+            "name": "APP2",
+            "key": "2",
+            "value": "2",
+            "description": "2",
             "required": false,
             "addmore": true,
-            "validationrule": "SDFASD"
+            "validationrule": "2"
+        },
+        {
+            "name": "APP3",
+            "key": "3",
+            "value": "3",
+            "description": "3",
+            "required": false,
+            "addmore": true,
+            "validationrule": "3"
         }
     ]
 }
