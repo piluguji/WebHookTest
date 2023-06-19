@@ -17,6 +17,15 @@
             "required": false,
             "addmore": true,
             "validationrule": "text"
+        }, 
+        {
+            "application": "NEW APP",
+            "key": "URL",
+            "value": "",
+            "description": "description",
+            "required": false,
+            "addmore": true,
+            "validationrule": "text"
         }
     ]
 }
