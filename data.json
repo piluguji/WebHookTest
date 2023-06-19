@@ -1,7 +1,7 @@
 {
     "applicationpreferences": [
         {
-            "application": "Application2",
+            "name": "Application2",
             "key": "URL",
             "value": "",
             "description": "description",
@@ -10,7 +10,7 @@
             "validationrule": "text"
         }, 
         {
-            "application": "NEW APP",
+            "name": "NEW APP",
             "key": "NEW",
             "value": "NEW",
             "description": "ASF",
