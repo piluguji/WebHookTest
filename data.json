@@ -1,15 +1,6 @@
 {
     "applicationpreferences": [
         {
-            "application": "ABABABA",
-            "key": "URL",
-            "value": "THIS VALUE WAS CHANGED",
-            "description": "URL to scrape",
-            "required": false,
-            "addmore": true,
-            "validationrule": "text"
-        },
-        {
             "application": "Application2",
             "key": "URL",
             "value": "",
@@ -20,12 +11,12 @@
         }, 
         {
             "application": "NEW APP",
-            "key": "URL",
-            "value": "",
-            "description": "description",
+            "key": "NEW",
+            "value": "NEW",
+            "description": "ASF",
             "required": false,
             "addmore": true,
-            "validationrule": "text"
+            "validationrule": "SDFASD"
         }
     ]
 }
